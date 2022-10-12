@@ -1,0 +1,28 @@
+.cover {
+  width: 1920px;
+  height:1440px;
+  background-color:gray;
+  padding:300px;
+opacity:70%;
+  /* finish your styling of the cover div here! */
+}
+#title {
+color:black;
+font-family: 'Source Code Pro', monospace;
+padding-left:170px;
+font-size:100px;
+}
+
+#subtitle {
+  padding-left:170px;
+  color:magenta;
+  font-family: 'Source Code Pro', monospace;
+  font-size:60px;
+
+}
+
+#cover_image {
+  margin:170px;
+
+
+}

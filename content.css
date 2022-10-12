@@ -1,0 +1,40 @@
+.page {
+  width: 300px;
+  height:500px;
+  color:black;
+  background-color:lightgray; 
+}
+
+#article_title {
+  font-family: 'Anton', monospace;
+  font-size:30px;
+  color:#461220;
+  padding-left:50px;
+}
+
+#intro {
+  font-family: 'Oswald', sans-serif;
+  font-size:13px;
+  color:brown;
+
+}
+
+.question{
+
+  font-family:'Railway', ;
+  color:darkslategrey;
+}
+
+.answer{
+  font-family: 'Railway', sans-serif;
+  font-size:10px;
+  color:darkslategrey;
+}
+
+#block_quote {
+  padding-left:100px;
+  font-size:13px;
+  color:maroon;
+  font-family: 'Oswald', monospace;
+
+}
